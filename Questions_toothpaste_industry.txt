@@ -1,0 +1,7 @@
+1. What is the opinion of users towards the industry?
+2. Which are the brands that are popular among users within the industry?
+3. What are the brands that are viewed negatively or positively?
+4. Within the industry, what is the users’ sentiment towards the different brands?
+5. What are the frequent topics that users mention when they interact with the different brands over social media? What is their sentiment towards those topics?
+6. What are the important aspects (and its sentiment) that are discussed by the users specifically on the target company?
+7. The most popular product of Sensodyne and the sentiment of the users towards the most popular product?
